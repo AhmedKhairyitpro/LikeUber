@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "510057111434",
+    "firebase_url": "https://likeuber-53397.firebaseio.com",
+    "project_id": "likeuber-53397",
+    "storage_bucket": "likeuber-53397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510057111434:android:17e7b34079bd422c",
+        "android_client_info": {
+          "package_name": "com.khairy.likeuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510057111434-koc7qji1rqj3nthqgm9lkmle8k2e1fd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khairy.likeuber",
+            "certificate_hash": "c86409b8e095e0cd21cbafcc4a79716fefc8b020"
+          }
+        },
+        {
+          "client_id": "510057111434-6ne2ba2mf6kp9c8arp8s19r1ainvckc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPMUSQXykgGe0Gpu5sbqpBDWgaIvoOFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510057111434-6ne2ba2mf6kp9c8arp8s19r1ainvckc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
